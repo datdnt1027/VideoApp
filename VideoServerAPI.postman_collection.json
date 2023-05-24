@@ -207,7 +207,7 @@
 			"response": []
 		},
 		{
-			"name": "Create a project SUCCESS Copy",
+			"name": "Create a project SUCCESS",
 			"event": [
 				{
 					"listen": "test",
